@@ -1,0 +1,6 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/jgitflow/hst:catalog:
+      jcr:primaryType: hst:catalog
+      /jgitflow-catalog:
+        jcr:primaryType: hst:containeritempackage

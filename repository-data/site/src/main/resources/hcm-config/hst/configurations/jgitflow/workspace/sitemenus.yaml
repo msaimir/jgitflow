@@ -1,0 +1,4 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/jgitflow/hst:workspace/hst:sitemenus:
+      jcr:primaryType: hst:sitemenus

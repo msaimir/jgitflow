@@ -1,0 +1,7 @@
+group: 
+  name: jgitflow
+  after: hippo-cms
+project: jgitflow
+module: 
+  name: jgitflow-repository-data-development
+  after: jgitflow-repository-data-application

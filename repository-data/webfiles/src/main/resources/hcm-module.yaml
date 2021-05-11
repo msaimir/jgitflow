@@ -1,0 +1,5 @@
+group: 
+  name: jgitflow
+project: jgitflow
+module:
+  name: jgitflow-repository-data-webfiles

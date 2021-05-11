@@ -1,0 +1,6 @@
+site: jgitflow
+group: jgitflow
+project: jgitflow
+module:
+  name: jgitflow-repository-data-site-development
+  after: jgitflow-repository-data-site
